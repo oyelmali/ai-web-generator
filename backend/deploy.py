@@ -5,7 +5,7 @@ import hashlib
 # Netlify API erişimi için kişisel erişim tokeni
 # Bu token ile Netlify API'sine kimlik doğrulama yapılacak
 NETLIFY_TOKEN = "your token"  # kendi tokenını buraya koy!
-DIR = "website"  # Deploy edilecek dosyaların bulunduğu klasör
+DIR = "../website"  # Deploy edilecek dosyaların bulunduğu klasör
 
 # Tüm API isteklerinde kullanılacak ortak header'lar
 headers = {
