@@ -1,0 +1,23 @@
+ai-web-generator/
+│
+├── backend/
+│   ├── main.py              # FastAPI backend ana uygulaması
+│   ├── generator.py         # HTML içeriği oluşturan modül
+│   ├── deploy.py            # Netlify deployment işlemlerini yöneten modül
+│   ├── site_storage.py      # Site verilerini saklayan modül
+│   ├── requirements.txt     # Backend bağımlılıkları
+│   └── models/              # AI modelleri klasörü
+│       └── README.md        # Model kurulum talimatları
+│   
+├── frontend/
+│   ├── app.py               # Streamlit frontend uygulaması
+│   └── requirements.txt     # Frontend bağımlılıkları
+│
+├── data/                    # Paylaşılan veri klasörü
+│   └── site_database.json   # Site veritabanı (site_storage tarafından kullanılır)
+│
+├── website/                 # Oluşturulan site dosyalarının geçici saklandığı klasör
+│
+├── README.md                # Proje dokümantasyonu
+├── .gitignore               # Git tarafından yok sayılacak dosyalar
+└── run.sh                   # Hem backend hem frontend'i başlatan script

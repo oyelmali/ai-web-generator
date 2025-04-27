@@ -1,0 +1,33 @@
+{
+  "sites": {
+    "omeryusufeelmali29845": {
+      "site_id": "70a9168d-2332-44f3-bef5-407aa14ccbb0",
+      "deploy_url": "http://omeryusufeelmali29845.netlify.app",
+      "prompts": [
+        "daha fazla kutucuk ekle ve bireysel \u00f6zellikleri g\u00f6sterebilece\u011fi yaz\u0131lar olsun.",
+        "lkdfjglsdkg"
+      ],
+      "last_updated": "2025-04-27T18:24:21.234006",
+      "created_at": "2025-04-27T17:44:43.283843"
+    },
+    "blablayenisiteblabla": {
+      "site_id": "86d5c227-b112-45c5-84d5-0c37a2c80ad3",
+      "deploy_url": "http://blablayenisiteblabla.netlify.app",
+      "prompts": [
+        "Bir restoran sitesi olu\u015ftur, men\u00fc sa\u011fda olsun ve tema renkleri pastel tonlarda olsun",
+        "men\u00fc sa\u011fda olsun sen solda yapm\u0131\u015fs\u0131n. men\u00fc detaylar\u0131 i\u00e7erisinde daha fazla i\u00e7erik olsun. daha fazla yemek ad\u0131 olsun.\n"
+      ],
+      "last_updated": "2025-04-27T18:36:27.402422",
+      "created_at": "2025-04-27T18:31:23.178529"
+    },
+    "omeryusufelmali": {
+      "site_id": "46b0f3a7-91b0-45a8-851f-537649221718",
+      "deploy_url": "http://omeryusufelmali.netlify.app",
+      "prompts": [
+        "web site de topbar, navbar, hero(\u00f6rnek bir resim geni\u015f) ortas\u0131nda yuvarlak resim yeri, alt\u0131nda kare k\u00fcp \u015feklinde beceriler olsun, onun alt\u0131nda projeler, onun alt\u0131nda ileti\u015fim k\u0131sm\u0131, onun alt\u0131nda footer. footer da yapay zeka ile geli\u015ftirildi yazs\u0131n. ad\u0131m \u00f6mer yusu elmal\u0131, veri m\u00fchendisiyim.  doldur siteyi. "
+      ],
+      "last_updated": "2025-04-27T21:16:26.668171",
+      "created_at": "2025-04-27T21:16:26.668171"
+    }
+  }
+}
