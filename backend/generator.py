@@ -4,12 +4,8 @@ from llama_cpp import Llama
 
 # Model yolu - doğru yolu kullanın ve raw string (r"...") olarak tanımlayın
 # Raw string kullanımı Windows path'lerindeki ters slash (\) karakterlerinin escape karakter olarak algılanmasını önler
-MODEL_PATH = r"C:\Users\oyelmali\Desktop\eterna-case\models--NikolayKozloff--Nxcode-CQ-7B-orpo-Q6_K-GGUF\blobs\6378a0cac8a8c5d94e85273fe534fd095fc9d5b558b35b815107771e7d1c1107"
+MODEL_PATH = "model yolu"
 
-# Eski model ve CLI yolları (fallback olarak saklanabilir)
-# Eğer birincil model yüklenemezse bu alternatif model ve CLI kullanılacak
-OLD_MODEL_PATH = r"C:\Users\oyelmali\Desktop\eterna-case\models--TheBloke--CodeLlama-7B-Instruct-GGUF\snapshots\2f064ee0c6ae3f025ec4e392c6ba5dd049c77969\codellama-7b-instruct.Q4_K_M.gguf"
-OLD_LLAMA_CLI = r"C:\Users\oyelmali\Desktop\eterna-case\project\llama.cpp\build\bin\Release\llama-cli.exe"
 
 # Model yükleme - uygulama başladığında bir kere yapılır
 # Bu adım önemlidir çünkü her istek için modeli tekrar yüklemek performans açısından verimsiz olur
