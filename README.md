@@ -67,11 +67,11 @@ streamlit run app.py
 
 ## Kullanım
 
-Site Adı Girin: Site adınızı oluşturun veya listeden kaydınızı seçin.
-Komutunuzu Girin: "Modern portfolyo sitesi oluştur, renkler mavi olsun" tarzı istediğinizi yazın.
-Oluştur/Güncelle: Butona tıklayın, AI modeli HTML kodunu üretsin ve sitenizi Netlify’a deploy etsin.
-Önizleme ve Onay: Sitenizi görüntüleyebilir, yeni komutlarla tekrar güncelleyebilirsiniz.
-Domain ve SSL: Yayım aşamasında size domain ve SSL seçenekleri sunulur.
+- **Site Adı Girin:** Site adınızı oluşturun veya listeden kaydınızı seçin.
+- **Komutunuzu Girin:** "Modern portfolyo sitesi oluştur, renkler mavi olsun" tarzı istediğinizi yazın.
+- **Oluştur/Güncelle:** Butona tıklayın, AI modeli HTML kodunu üretsin ve sitenizi Netlify’a deploy etsin.
+- **Önizleme ve Onay:** Sitenizi görüntüleyebilir, yeni komutlarla tekrar güncelleyebilirsiniz.
+- **Domain ve SSL:** Yayım aşamasında size domain ve SSL seçenekleri sunulur.
 
 
 
